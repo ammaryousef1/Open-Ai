@@ -11,10 +11,10 @@ import { signOut } from 'firebase/auth';
 const Menu = () => {
     return <>
             
-                <Link to='/WhatGPT3'><p><a href='#wgpt3'>What is GPT?</a></p></Link>
-                <Link to='/Features'><p><a href='#features'>Case Studies</a></p></Link>
-                <Link to='/Possibility'><p><a href='#possibility'>Open AI</a></p></Link>
-                <Link to='/Blog'><p><a href='#blog'>Library</a></p></Link>
+               <p><a href='#wgpt3'>What is GPT?</a></p>
+               <p><a href='#features'>features</a></p>
+               <p><a href='#possibility'>Open AI</a></p>
+               <p><a href='#blog'>Library</a></p>
     </>
 }
 

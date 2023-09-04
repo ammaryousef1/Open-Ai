@@ -21,9 +21,9 @@ const featuresData = [
   },
 ];
 
-const Features = () => {
+const  Features = () => {
   return (
-    <div className='gpt3__features section__padding' id="features">
+    <div id="features" className='gpt3__features section__padding' id="features">
       <div className='gpt3__features-heading'>
         <h1 className='gradient__text'> the future is now and you just need to realize lt. step into future today & make it happen </h1>
         <p> request early access to get started</p>

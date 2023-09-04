@@ -21,7 +21,7 @@ const App = () => {
         <Footer />
           </>
         } />
-        <Route path='/Features' element={ 
+        <Route path='/ii' element={ 
             <>
         <Navbar />
         <Features />
